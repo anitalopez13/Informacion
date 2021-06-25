@@ -1,0 +1,2 @@
+# Informacion
+pagina informativa
